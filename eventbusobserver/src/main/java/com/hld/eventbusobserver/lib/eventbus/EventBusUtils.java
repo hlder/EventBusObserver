@@ -1,4 +1,4 @@
-package com.hld.eventbusobserver.eventbus;
+package com.hld.eventbusobserver.lib.eventbus;
 
 import java.util.List;
 

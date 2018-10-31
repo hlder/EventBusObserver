@@ -7,7 +7,9 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.hld.eventbusobserver.eventbus.EventBusListener;
+import com.hld.eventbusobserver.lib.EventBus;
+import com.hld.eventbusobserver.lib.eventbus.EventBusListener;
+
 
 public class MainActivity extends AppCompatActivity {
     private Button button;

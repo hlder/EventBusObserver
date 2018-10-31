@@ -1,8 +1,8 @@
-package com.hld.eventbusobserver;
+package com.hld.eventbusobserver.lib;
 
 
-import com.hld.eventbusobserver.eventbus.EventBusListener;
-import com.hld.eventbusobserver.eventbus.EventBusUtils;
+import com.hld.eventbusobserver.lib.eventbus.EventBusListener;
+import com.hld.eventbusobserver.lib.eventbus.EventBusUtils;
 
 /**
  * eventbus使用类，单列模式！如果不想使用单列，可以自行创建eventBusUtils<br/>
